@@ -21,5 +21,5 @@ nginx_web_1   /bin/sh -c service hhvm st ...   Up      0.0.0.0:8000->80/tcp
 * Verify docker container is accessible from browser using port 8000
 
 # Pull from Docker Hub
-https://hub.docker.com/r/adityahilman/nginx_hhvm/
+https://hub.docker.com/r/adityahilman/nginx_hhvm/ <br />
 `docker pull adityahilman/nginx_hhvm`
