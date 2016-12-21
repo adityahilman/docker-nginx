@@ -1,9 +1,0 @@
-# Nginx Docker Image #
-OS version : Ubuntu 16.04
-
-# How To
-- Build docker image with docker-compose
-docker-compose build
-
-- Run docker container
-docker-compose up
